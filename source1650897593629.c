@@ -485,4 +485,6 @@ int main() {
 
 	delete_tree(starting_node);
 	system("pause");
-	return 0;
+	return 0;
+}
+
