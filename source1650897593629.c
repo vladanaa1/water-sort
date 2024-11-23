@@ -419,7 +419,7 @@ int main() {
 	printf("3. Zatrazi pomoc\n");
 	printf("4. Prikazi stablo ishoda\n");
 	printf("5. Ispisi validno stanje\n");
-	printf("0. Exit");
+	printf("0. Exit\n");
 	scanf_s("%d", &opcija);
 
 	if(starting_node->status==0 || starting_node->status==3){
